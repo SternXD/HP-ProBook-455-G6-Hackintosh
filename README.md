@@ -28,13 +28,13 @@
 - [x] Native CPU Power Management
 - [x] Sleep/Wake
 - [x] AMD Graphics
-- [] Audio
-- [] Trackpad (gestures)
+- Audio
+- Trackpad (gestures)
 - [x] Type-C USB
-- [] Type-C: video and audio **Cannot test**
+- Type-C: video and audio **Cannot test**
 - [x] HDMI: video and audio
 - [x] USB 3.0
-- [] Battery Management
+- Battery Management
 - [x] Brightness
 - [x] Brightness fn keys (if not working, turn off the laptop and hold the power button for 30 seconds to reset EC)
 - [x] Built-in camera
