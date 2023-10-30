@@ -1,46 +1,27 @@
-# HP ProBook 430/440/450 G6 Hackintosh
+# HP ProBook 455 G6 Hackintosh
 
 ## Configuration
 
 | Specifications      | Detail                       |
 | ------------------- | ---------------------------- |
-| CPU                 | Intel(R) Core(TM) i5-8265U   |
-| Integrated Graphics | Intel UHD Graphics 620       |
+| CPU                 | AMD Ryzen 3 2200U   |
+| Integrated Graphics | AMD Vega 3       |
 | Sound Card          | Realtek ALC236 (layout-id:3) |
-| Wireless Card       | Intel Wireless               |
+❌ | Wireless Card       | External USB Dongle               |
 
 ## MacOS Versions Supported:
 
+- macOS Sonoma
+- macOS Ventura
+- macOS Monterey
 - macOS Big Sur
+- macOS Catalina
 
 ## Changelog
 
-### 3-23-2021
+### 10/31/2023
 
-#### Update
-
-- `OpenCore` v0.6.7
-- `AppleALC` v1.5.8
-- `CPUFriend` v1.2.4
-- `HibernationFixup` v1.3.9
-- `Lilu` v1.5.1
-- `VirtualSMC` v1.2.1
-- `VoodooI2C` v2.6.5
-- `VoodooPS2Controller` v2.2.2
-- `WhateverGreen` v1.4.8
-
-#### Add
-
-- `AirportItlwm` v1.3.0
-- OC resources(modern)
-
-#### Change
-
-- Change `alcid=11` boot-args(fix line-in mic)
-
-#### Remove
-
-- Remove `CodecComander`
+#### Preliminary release 
 
 ## What is Working?
 
