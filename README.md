@@ -1,4 +1,4 @@
-# HP ProBook 455 G6 Hackintosh
+# ~~HP ProBook 455 G6 Hackintosh~~ **Outdated will fix when I can**
 
 ## Configuration
 
